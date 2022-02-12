@@ -202,7 +202,8 @@ section {
 }
   
 .about .row .info-container .box-container .box h3 span {
-    color: #aaa;
+    /* color: #aaa; */
+    color: rgb(229 229 229);
     font-weight: lighter
 }
   
